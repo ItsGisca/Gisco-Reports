@@ -11,9 +11,9 @@ SOON
 * OX_LIB
 
 ## Commands
-/report
-/reports
-/closedReports
+* /report
+* /reports
+* /closedReports
 
 ## Installation 
 1) Run the gisco-reports.sql file in your database
